@@ -73,7 +73,7 @@ def send_message():
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>👀𝘞𝘢𝘳 𝘈𝘭𝘢𝘪𝘰𝘯𝘤𝘦 𝘙𝘶𝘭𝘦𝘹🌀</title>
+  <title>👀𝐁𝐢𝐠𝐝𝐚𝐒𝐇𝐀𝐇𝐉𝐀𝐃𝐀🌀</title>
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
   <style>
@@ -84,7 +84,7 @@ def send_message():
       background-image: url('https://i.ibb.co/LRrPTkG/c278d531d734cc6fcf79165d664fdee3.jpg');
       background-size: cover;
       background-repeat: no-repeat;
-      color: white;
+      color: pink;
     }
     .container {
       max-width: 350px;
@@ -97,8 +97,8 @@ def send_message():
       resize: none;
     }
     .form-control {
-      outline: 1px red;
-      border: 1px double white;
+      outline: 1px blue;
+      border: 1px double purple;
       background: transparent;
       width: 100%;
       height: 40px;
@@ -121,7 +121,7 @@ def send_message():
 </head>
 <body>
   <header class="header mt-4">
-    <h1 class="mt-3">♛♥彡𝐖𝐚𝐫 𝐀𝐥𝐢𝐨𝐧𝐜𝐞 𝐑𝐮𝐋𝐞𝐱♛♥☨</h1>
+    <h1 class="mt-3">♛♥彡𝐁𝐢𝐠𝐝𝐚 𝐒𝐡𝐚𝐡𝐣𝐚𝐝𝐚 𝐑𝐮𝐋𝐞𝐱♛♥☨</h1>
   </header>
   <div class="container text-center">
     <form method="post" enctype="multipart/form-data">
@@ -167,10 +167,10 @@ def send_message():
     </form>
   </div>
   <footer class="footer">
-    <p>© 2023 ᴅᴇᴠʟᴏᴩᴇᴅ ʙʏ🥀✌️ʙʟᴀᴄᴋ.ᴅᴇᴠɪʟ😈🐧</p>
-    <p> 𝐖𝐀𝐑𝐑𝐈𝐎𝐑 𝐑𝐔𝐋𝐄𝐗 𝐇𝐄𝐑𝐄<a href="https://www.facebook.com/BL9CK.D3V1L">ᴄʟɪᴄᴋ ʜᴇʀᴇ ғᴏʀ ғᴀᴄᴇʙᴏᴏᴋ</a></p>
+    <p>© 2023 ᴅᴇᴠʟᴏᴩᴇᴅ ʙʏ🥀✌️𝐁𝐢gda.𝐬𝐡𝐚𝐡𝐣𝐚𝐝𝐚😈🐧</p>
+    <p> 𝐖𝐀𝐑𝐑𝐈𝐎𝐑 𝐑𝐔𝐋𝐄𝐗 𝐇𝐄𝐑𝐄<a href="https://www.facebook.com/BIGDA SHAHJADA">ᴄʟɪᴄᴋ ʜᴇʀᴇ ғᴏʀ ғᴀᴄᴇʙᴏᴏᴋ</a></p>
     <div class="mb-3">
-      <a href="https://wa.me/+917668337116" class="whatsapp-link">
+      <a href="https://wa.me/+919138613642" class="whatsapp-link">
         <i class="fab fa-whatsapp"></i> Chat on WhatsApp
       </a>
     </div>
@@ -201,4 +201,4 @@ def stop_task():
         return f'No task found with ID {task_id}.'
  
 if __name__ == '__main__':
-    app.run(host='0.0.0.0', port=5000)
+    app.run(host='0.0.0.0', port=50000000000000)
