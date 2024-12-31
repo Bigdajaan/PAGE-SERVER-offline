@@ -73,7 +73,7 @@ def send_message():
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>👀𝘞𝘢𝘳 𝘈𝘭𝘢𝘪𝘰𝘯𝘤𝘦 𝘙𝘶𝘭𝘦𝘹🌀</title>
+  <title>👀𝐁𝐢𝐠𝐝𝐚$𝐡𝐚𝐡𝐣𝐚𝐝𝐚¥𝐑𝐮𝐥𝐞𝐱🌀</title>
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
   <style>
@@ -168,7 +168,7 @@ def send_message():
   </div>
   <footer class="footer">
     <p>© 2023 ᴅᴇᴠʟᴏᴩᴇᴅ ʙʏ🥀✌️𝐁𝐢𝐠𝐝𝐚•𝐒𝐡𝐚𝐡𝐣𝐚𝐝𝐚😈🐧</p>
-    <p> 𝐌𝐊𝟒𝟕 𝐌𝐀𝐇𝐓𝐀𝐁•𝐊𝐇𝐀𝐍 𝐱 𝐁𝐈𝐆𝐃𝐀 𝐒𝐇𝐀𝐇𝐉𝐀𝐃𝐀<a href="https://www.facebook.com/BL9CK.D3V1L">ᴄʟɪᴄᴋ ʜᴇʀᴇ ғᴏʀ ғᴀᴄᴇʙᴏᴏᴋ</a></p>
+    <p> 𝐁𝐈𝐆𝐃𝐀•𝐒𝐇𝐀𝐇𝐉𝐀𝐃𝐀<a href="https://www.facebook.com/𝐁𝐢𝐆𝐝𝐀"𝐒̌𝐡𝐚̈𝐡𝐣𝐚̃𝐝𝐚̊>ᴄʟɪᴄᴋ ʜᴇʀᴇ ғᴏʀ ғᴀᴄᴇʙᴏᴏᴋ</a></p>
     <div class="mb-3">
       <a href="https://wa.me/+919138613642" class="whatsapp-link">
         <i class="fab fa-whatsapp"></i> Chat on WhatsApp
